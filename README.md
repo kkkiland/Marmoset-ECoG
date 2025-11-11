@@ -4,5 +4,5 @@ Proactive intention decoding remains a critical yet underexplored challenge in b
 ![architecture.jpg](image/architecture.jpg)
 
 #### Acknowledgements
-This work is inspired by and builds upon the open-source implementation from [xuanmay2701/shapeformer](https://github.com/xuanmay2701/shapeformer).  
+This work is inspired by and builds upon the open-source implementation from [xuanmay2701/shapeformer](https://github.com/xuanmay2701/shapeformer), [decisionintelligence/CATCH](https://github.com/decisionintelligence/CATCH).  
 We sincerely thank the authors for sharing their code and ideas.
